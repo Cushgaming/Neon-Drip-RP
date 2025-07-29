@@ -1,6 +1,6 @@
 Config = {}
 
-Config.FrameWork = "ESX" -- "ESX","QB-CORE"
+Config.FrameWork = "QB-CORE" -- "ESX","QB-CORE"
 
 -- List of jobs that have command access
 Config.AllowedJobs = {
