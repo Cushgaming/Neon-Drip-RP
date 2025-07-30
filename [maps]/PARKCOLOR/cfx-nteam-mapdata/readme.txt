@@ -1,1 +1,0 @@
-Scenario file for park color is alta.ymt
